@@ -25,8 +25,7 @@
    This form can be used to Start and Stop connection with the server and to display the logs of interaction between the Client and the Server
 
 2. Network and Business Tier
-
-This tier 
+(to be continued)
   
    
 
