@@ -22,7 +22,8 @@
 
    The GUIServer instance creates a Server SQL Logs Form as follows:
 
-   ![image](https://github.com/user-attachments/assets/a171af50-f7c9-4dff-8f1c-11c4be81bd66)
+   ![image](https://github.com/user-attachments/assets/2bf048bf-bb07-49ef-ae73-a660ea627576)
+
 
 
    This form can be used to Start and Stop connection with the server and to display the logs of interaction between the Client and the Server
