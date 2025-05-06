@@ -1,0 +1,8 @@
+7
+20250504_184152#select|1
+20250506_144710#select|2
+20250506_145021#insert|Movie fantasy|Thang Le|2024|A person develops apps|8
+20250506_145038#select|12
+20250506_145051#update|12|Movie fantasy|Thang Le|2025|A person develops apps|8
+20250506_145111#delete|12
+20250506_145118#select|3
